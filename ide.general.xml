@@ -1,10 +1,8 @@
 <application>
   <component name="GeneralSettings">
-    <option name="confirmOpenNewProject2" value="1" />
-    <option name="searchInBackground" value="true" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="cidr.max.intellisense.file.length" value="650000" />
+    <entry key="cidr.max.intellisense.file.length" value="700000" />
   </component>
 </application>
