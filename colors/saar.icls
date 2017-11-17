@@ -3,6 +3,7 @@
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <attributes>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
@@ -56,11 +57,6 @@
         <option name="FOREGROUND" value="9e9c6d" />
       </value>
     </option>
-    <option name="DEFAULT_CLASS_REFERENCE">
-      <value>
-        <option name="FOREGROUND" value="60cdac" />
-      </value>
-    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="9e9c6d" />
@@ -93,6 +89,12 @@
     <option name="DEFAULT_DOT">
       <value>
         <option name="FOREGROUND" value="9e9c6d" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="de906f" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -162,26 +164,6 @@
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="7aa0cc" />
-      </value>
-    </option>
-    <option name="ERRORS_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_COLOR" value="4f1e1a" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="GLSL.QUALIFIER_TOKENS" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="GLSL.TEXT">
-      <value>
-        <option name="FOREGROUND" value="9e9c6d" />
-        <option name="BACKGROUND" value="212121" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="GLSL.TYPE_SPECIFIER" baseAttributes="DEFAULT_CLASS_REFERENCE" />
-    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
-      <value>
-        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="OC.BRACKETS">
@@ -260,9 +242,6 @@
         <option name="BACKGROUND" value="212121" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
-    </option>
-    <option name="WRONG_REFERENCES_ATTRIBUTES">
-      <value />
     </option>
   </attributes>
 </scheme>
