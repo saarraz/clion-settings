@@ -1,6 +1,6 @@
 <scheme name="saar" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="FONT_SCALE" value="1.25" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
@@ -182,7 +182,6 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="GLSL.QUALIFIER_TOKENS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="GLSL.TEXT">
       <value>
         <option name="FOREGROUND" value="9e9c6d" />
@@ -190,7 +189,6 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="GLSL.TYPE_SPECIFIER" baseAttributes="DEFAULT_CLASS_REFERENCE" />
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
         <option name="EFFECT_TYPE" value="2" />
