@@ -15,8 +15,8 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>CMakeLists.txt</mask>
-    <mask>*.td</mask>
     <mask>*.cmake</mask>
     <mask>*.py</mask>
+    <mask>*.td</mask>
   </component>
 </application>
