@@ -5,6 +5,6 @@
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
-    <entry key="cidr.max.intellisense.file.length" value="700000" />
+    <entry key="cidr.max.intellisense.file.length" value="7000000" />
   </component>
 </application>
