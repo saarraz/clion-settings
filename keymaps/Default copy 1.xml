@@ -5,6 +5,10 @@
   </action>
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
