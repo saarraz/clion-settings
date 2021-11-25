@@ -1,9 +1,4 @@
 <scheme name="saar" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <attributes>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
@@ -55,6 +50,11 @@
     <option name="DEFAULT_BRACKETS">
       <value>
         <option name="FOREGROUND" value="9e9c6d" />
+      </value>
+    </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="7ce0c5" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -119,6 +119,17 @@
         <option name="FOREGROUND" value="dbc58c" />
       </value>
     </option>
+    <option name="DEFAULT_INSTANCE_FIELD">
+      <value>
+        <option name="FOREGROUND" value="7b765d" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="7db8a8" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="737373" />
@@ -164,7 +175,19 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="9e9c6d" />
+        <option name="FOREGROUND" value="5a5940" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_FIELD">
+      <value>
+        <option name="FOREGROUND" value="7b765d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="de906f" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
@@ -258,9 +281,37 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="ReSharper.NAMESPACE_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="759796" />
+      </value>
+    </option>
+    <option name="ReSharper.OPERATOR_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="b3b19a" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.PREPROCESSOR_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="868686" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ReSharper.PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="7b765d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ReSharper.TYPE_PARAMETER_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="9becd6" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="9e9c6d" />
         <option name="BACKGROUND" value="212121" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
