@@ -332,6 +332,11 @@
         <option name="FOREGROUND" value="98cdb6" />
       </value>
     </option>
+    <option name="PY.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="9e9c6d" />
+      </value>
+    </option>
     <option name="PY.BUILTIN_NAME">
       <value>
         <option name="FOREGROUND" value="ce967f" />
