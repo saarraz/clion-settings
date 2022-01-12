@@ -200,6 +200,12 @@
         <option name="FOREGROUND" value="7aa0cc" />
       </value>
     </option>
+    <option name="DJANGO_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="de906f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff6559" />
@@ -261,6 +267,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="72737a" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -327,6 +334,55 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PY.ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="98cdb6" />
+      </value>
+    </option>
+    <option name="PY.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="9e9c6d" />
+      </value>
+    </option>
+    <option name="PY.BUILTIN_NAME">
+      <value>
+        <option name="FOREGROUND" value="ce967f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.DECORATOR">
+      <value>
+        <option name="FOREGROUND" value="909090" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="ada27d" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="de836f" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="de836f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.SELF_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="de836f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.STRING.B">
+      <value>
+        <option name="FOREGROUND" value="a1a1a1" />
+      </value>
+    </option>
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="759796" />
@@ -357,13 +413,15 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="9e9c6d" />
+        <option name="FOREGROUND" value="ead59a" />
         <option name="BACKGROUND" value="212121" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="WRONG_REFERENCES_ATTRIBUTES">
-      <value />
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="dbc58c" />
+      </value>
     </option>
   </attributes>
 </scheme>
