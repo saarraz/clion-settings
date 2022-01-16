@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py,*.jinja,*.ts,*.js" />
+    <option name="FILE_MASK" value="*.py,*.jinja,*.ts,*.js,*.vue" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,5 +20,6 @@
     <mask>*.py</mask>
     <mask>*.py,*.jinja</mask>
     <mask>*.py,*.jinja,*.ts,*.js</mask>
+    <mask>*.py,*.jinja,*.ts,*.js,*.vue</mask>
   </component>
 </application>
