@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <JSCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
   </Objective-C>
