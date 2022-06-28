@@ -1,4 +1,8 @@
 <code_scheme name="Default" version="173">
+  <JSCodeStyleSettings version="0">
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
   </Objective-C>
@@ -8,6 +12,12 @@
       <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
+  <TypeScriptCodeStyleSettings version="0">
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="CMake">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />

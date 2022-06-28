@@ -4,10 +4,10 @@
     <extensionMap>
       <mapping pattern="english-utils.ts" type="AUTO_DETECTED" />
       <mapping pattern="null" type="AUTO_DETECTED" />
-      <mapping ext="jinja" type="Jinja2" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern=".zsh_history" type="PLAIN_TEXT" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="jinja" type="Jinja2" />
     </extensionMap>
   </component>
 </application>
