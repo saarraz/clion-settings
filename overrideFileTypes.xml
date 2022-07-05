@@ -1,6 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file:////wsl$/Ubuntu/home/saar/projects/swimm-labs/.git/hooks/pre-push" value="Shell Script" />
-    <file url="file:////wsl$/Ubuntu/home/saar/projects/swimm/cloud/functions/generated-docs/analysis/extensions.ctags" value="RegExp" />
+    <file url="file:////wsl$/Ubuntu/home/saar/projects/swimm/cloud/functions/generated-docs/utils/english-utils.ts" value="TypeScript" />
   </component>
 </application>
