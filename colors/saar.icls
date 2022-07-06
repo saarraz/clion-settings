@@ -1,5 +1,11 @@
 <scheme name="saar" version="142" parent_scheme="Darcula">
   <attributes>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="de906f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="de906f" />
