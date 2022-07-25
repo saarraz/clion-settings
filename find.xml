@@ -19,5 +19,7 @@
     <mask>*.py</mask>
     <mask>*.py,*.jinja</mask>
     <mask>*.py,*.jinja,*.ts,*.js</mask>
+    <mask>*.spec.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
