@@ -7,9 +7,11 @@
       <mapping pattern="configure" type="AUTO_DETECTED" />
       <mapping pattern="null" type="AUTO_DETECTED" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".zsh_history" type="PLAIN_TEXT" />
       <mapping ext="ctags" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <mapping ext="jinja" type="Jinja2" />
     </extensionMap>
